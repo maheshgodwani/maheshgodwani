@@ -1,4 +1,4 @@
-### <samp><h2>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Rahul Kanjariya</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h2>
+### <samp><h2>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Mahesh Godwani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h2>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Ui/Ux+and+FrontEnd+Devloper%3A)" /> </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kanjariya-6672411ab/)
