@@ -40,7 +40,7 @@ I'm Developer | Programmer | Learner
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 <br>
-📈 **My GitHub Stats:**
+<h3 align="left">📈 My GitHub Stats :</h3>
 
 <p>
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=maheshgodwani&show_icons=true&locale=en&include_all_commits=true&hide_border=true&layout=compact&langs_count=8"" alt="maheshgodwani" />
@@ -52,6 +52,9 @@ I'm Developer | Programmer | Learner
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshgodwani&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   
 </p>
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{maheshgodwani}/count.svg)
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maheshgodwani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
