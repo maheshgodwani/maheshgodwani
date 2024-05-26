@@ -7,7 +7,7 @@
 
 I'm Developer | Programmer | Learner
 
-<img align="right" alt="GIF" src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/maheshgodwani/maheshgodwani/blob/main/img/coding.gif" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
@@ -39,7 +39,7 @@ I'm Developer | Programmer | Learner
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
-
+<br>
 📈 **My GitHub Stats:**
 
 <p>
