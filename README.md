@@ -13,7 +13,7 @@ I'm Developer | Programmer | Learner
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1YhBHvZWO79fH1fLqRzhDzI4Y_Hsoyxd5/view?usp=sharing).
+- <img src="https://github.com/KanjariyaRahul/KanjariyaRahul/blob/main/img/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://maheshgodwani.vercel.app/Mahesh_Godwani_Resume.pdf).
 - 🌱 Learning Never Stops 🚀
 
 <h3 align="left">Web Tech Stack :</h3>
